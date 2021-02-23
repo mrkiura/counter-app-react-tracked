@@ -1,5 +1,5 @@
 {
-  "name": "counter-app-use-reducer",
+  "name": "counter-app-react-tracked",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
